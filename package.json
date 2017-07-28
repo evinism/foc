@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "simple-http-server"
+    "start": "http-server -p $PORT"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/evinism/foc#readme",
   "dependencies": {
-    "simple-http-server": "^0.1.8"
+    "http-server": "^0.10.0"
   }
 }
