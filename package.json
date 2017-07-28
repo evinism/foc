@@ -1,0 +1,22 @@
+{
+  "name": "foc",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "simple-http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evinism/foc.git"
+  },
+  "author": "Evin Sellin & Lisa Illes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evinism/foc/issues"
+  },
+  "homepage": "https://github.com/evinism/foc#readme",
+  "dependencies": {
+    "simple-http-server": "^0.1.8"
+  }
+}
